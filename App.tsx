@@ -1,8 +1,16 @@
 import React from 'react';
-import {SignIn} from './src/screens/SignIn/SignIn';
+import AuthProvider from './src/context/AuthContext/AuthContext';
+import Router from './src/routes/Router';
+import {NavigationContainer} from '@react-navigation/native';
 
 const App = () => {
-  return <SignIn />;
+  return (
+    <AuthProvider>
+      <NavigationContainer>
+        <Router />
+      </NavigationContainer>
+    </AuthProvider>
+  );
 };
 
 export default App;
