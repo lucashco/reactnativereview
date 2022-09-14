@@ -1,8 +1,8 @@
-import React from "react"
-import { Text } from "react-native"
+import React from 'react';
+import {Text} from 'react-native';
 
 const App = () => {
-  return <Text>Hello Vini</Text>
-}
+  return <Text>Hello Vini</Text>;
+};
 
-export default App
+export default App;
