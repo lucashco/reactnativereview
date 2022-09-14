@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719263109939",
+    "project_id": "review-firebase-e1904",
+    "storage_bucket": "review-firebase-e1904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719263109939:android:5263bf1aec713a09e3a446",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719263109939-ho1i4lvmai3dkqeoj0obi6lkgstr4ojd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnqMdBoesfbFEIR-7JrWDLbMp60CF03RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719263109939-ho1i4lvmai3dkqeoj0obi6lkgstr4ojd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
